@@ -183,5 +183,3 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para
 **Yeremi Tantaraico** - Estudiante de Ingeniería de Sistemas y Redes
 
 ---
-
-*Última actualización: $(date)*
